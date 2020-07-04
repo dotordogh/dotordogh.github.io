@@ -1,0 +1,13 @@
+body {
+  background-color: #303030;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  margin: 3%;
+}
+
+a {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
